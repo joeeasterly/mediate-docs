@@ -4,7 +4,6 @@ vimeoId: 624613970
 [//]: # (Screenshot window size: 1000 x 620)
 # mediate-docs
 Introducing Mediate
-{% include vimeoPlayer.html id=624613970 %}
 1. First, visit https://rclmediate.lib.rochester.edu. If you have already signed up for Mediate, enter your username and password, otherwise click **Sign Up**.
 2. Upon login, you are taken directly to the dashboard. What comes next depends on if you are uploading and working on a new video, or if you are annotating one posted by another person such as a professor for your class. If you are not uploading a new video, skip to step 2b below.
 - 2a. Upload and tag a new video
